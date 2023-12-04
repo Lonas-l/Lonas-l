@@ -57,8 +57,6 @@ My QA journey has begun since 2021, it was hard at first, but every month I noti
 - **Selenium (a little)**
 - **Different google extension for helping (check pixsel perfet, reset cookies and other)**
 
-<sup>I don't include skills and tools like Figma, Google Documents, Slack and others, because they really suck. 
-
 ---
 
 ## Certificates :trophy:
