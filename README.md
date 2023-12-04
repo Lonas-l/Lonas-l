@@ -55,7 +55,7 @@ My QA journey has begun since 2021, it was hard at first, but every month I noti
 - **BrowserStack**
 - **Redmine/Jira/Trello/TestRail**
 - **Selenium (a little)**
-- **Different google extension for helping (check pixsel perfet, reset cookies and other)**
+- **Different google extension for helping (check pixel perfet, reset cookies and other)**
 
 ---
 
