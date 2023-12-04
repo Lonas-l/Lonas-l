@@ -3,11 +3,11 @@
 
 ### Take a shortcut :runner:
 - :wave: [About me](#about-me-wave)
-- :mailbox: [Contacts](#contacts)
-- :computer: [Skills And Tools](#skills)
-- 🏆 [Certificates](#certificates)
-- :clipboard: [My projects And Portfolio](#my-projects-and-portfolio)
-- :clipboard: [Recommendation](#recommendation)
+- :mailbox: [Contacts](#contacts-mailbox)
+- :computer: [Skills And Tools](#skills-computer)
+- :trophy: [Certificates](#certificates-trophy)
+- :clipboard: [My projects And Portfolio](#my-projects-and-portfolio-clipboard)
+- :speech_balloon: [Recommendation](#recommendation-speech_balloon)
 
 ---
 
@@ -17,7 +17,7 @@ My QA journey have begun since 2021, it was hard at first, but every month I not
 
 ---
 
-## Contacts
+## Contacts :mailbox:
 
 - <a href="https://www.linkedin.com/in/illia-holub/"> <img src="./img/LinkedIn_icon.png" alt="Linkedin profile" width="15" height="15"> Linkedin profile </a>
 - <a href="https://t.me/holiadr"> <img src="./img/Telegram_icon.png" alt="Linkedin profile" width="15" height="15"> Telegram </a>
@@ -26,9 +26,9 @@ My QA journey have begun since 2021, it was hard at first, but every month I not
 
 ---
 
-## Skills
+## Skills :computer:
 
-### Tech 
+### Tech
 - **Software testing (web/mobile)**
 - **Creating Test Documentation (bug report, test cases, checklist, test plan etc..)**
 - **Rest API testing**
@@ -47,7 +47,7 @@ My QA journey have begun since 2021, it was hard at first, but every month I not
 
 ---
 
-## Tools
+## Tools :toolbox:
 
 - **Chrome Dev Tools**
 - **Postman**
@@ -61,7 +61,7 @@ My QA journey have begun since 2021, it was hard at first, but every month I not
 
 ---
 
-## Certificates 
+## Certificates :trophy:
 
 - [English B1 Speaking](https://app.smalltalk2.me/cert/2ba8462c)
 - [API Testing With Postman Tool](https://coursera.org/share/34e24a0706c401c38a79dc6debb8331f)
@@ -72,7 +72,7 @@ My QA journey have begun since 2021, it was hard at first, but every month I not
 
 ---
 
-## My projects And Portfolio
+## My projects And Portfolio :clipboard:
 
 - Cypress/TS Automation [first variant](https://github.com/Lonas-l/pomodoro/tree/main/testing/cypress) or [another (so much library and functionals)](https://github.com/Lonas-l/testCad)
 - [Postman Create Collection + Sample Tests](https://www.postman.com/science-pilot-82782637/workspace/pomodoro-api/collection/31001558-021ec4a7-78f2-4b1d-8d0a-e1aeeea1c0ce) 
@@ -81,7 +81,7 @@ My QA journey have begun since 2021, it was hard at first, but every month I not
 - [Feature](https://github.com/Lonas-l/pomodoro/tree/main/testing/documentation/feature)
 - [Test Plan](https://github.com/Lonas-l/pomodoro/blob/main/testing/documentation/testPlan/testPlan.md)
 ---
-## Recommendation
+## Recommendation :speech_balloon:
 
 You can read about me more [here](https://www.linkedin.com/in/illia-holub/details/recommendations/?detailScreenTabIndex=0)
 
