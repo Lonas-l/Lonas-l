@@ -13,7 +13,7 @@
 
 ## About me :wave:
 
-My QA journey have begun since 2021, it was hard at first, but every month I noticed that I liked it more and more. Despite the fact that I have held different positions in my experience (developer, CEO, whose responsibilities also included lead generation), I remain a supporter of testing. This process requires meticulousness, tenacity and unwavering attention to detail - all qualities that I possess. It's a complex process, but I get great satisfaction from understanding its intricacies.
+My QA journey has begun since 2021, it was hard at first, but every month I noticed that I liked it more and more. Despite the fact that I have held different positions in my experience (developer, CEO, whose responsibilities also included lead generation), I remain a supporter of testing. This process requires meticulousness, tenacity and unwavering attention to detail - all qualities that I possess. It's a complex process, but I get great satisfaction from understanding its intricacies.
 
 ---
 
@@ -36,7 +36,7 @@ My QA journey have begun since 2021, it was hard at first, but every month I not
 - **HTML/CSS/JS/TS React and a lot of npm libraries**
 - **SQL**
 - **GIT**
-- **Knowledge and expirience about software development models (Scrum, Kanban, a little - Waterfool)**
+- **Knowledge and experience about software development models (Scrum, Kanban, a little - Waterfall)**
 
 ### Soft:
 - **Proactive** (constantly suggesting workflow improvements)
